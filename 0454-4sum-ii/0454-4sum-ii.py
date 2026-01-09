@@ -4,7 +4,10 @@ class Solution:
         for a in A:
             for b in B:
                 s = a+b
-                sumAB[s] = sumAB.get(s,0)+1
+                if s in sumAB:
+                    sumAB[s] = sumAB[s]+1
+                else:
+                    sumAB[s] = 1
         count = 0
         for c in C:
             for d in D:
