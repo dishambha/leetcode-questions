@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dishambha/leetcode-questions/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/dishambha/leetcode-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dishambha/leetcode-questions/tree/master/0189-rotate-array) |
+| [0454-4sum-ii](https://github.com/dishambha/leetcode-questions/tree/master/0454-4sum-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/dishambha/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dishambha/leetcode-questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/dishambha/leetcode-questions/tree/master/0169-majority-element) |
+| [0454-4sum-ii](https://github.com/dishambha/leetcode-questions/tree/master/0454-4sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
