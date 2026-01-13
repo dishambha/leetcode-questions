@@ -8,10 +8,9 @@ class Solution:
                 res.append(mat[i][j])
         if n*m != r*c:
             return mat
-        le = len(res)
         final_res =[]
-        for i in range(0,le,c):
+        for i in range(0,len(res),c):
             sol = res[i:i+c]
             final_res.append(sol)
+
         return final_res
-                        
