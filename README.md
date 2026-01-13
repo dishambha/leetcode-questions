@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/dishambha/leetcode-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dishambha/leetcode-questions/tree/master/0189-rotate-array) |
 | [0454-4sum-ii](https://github.com/dishambha/leetcode-questions/tree/master/0454-4sum-ii) |
+| [0566-reshape-the-matrix](https://github.com/dishambha/leetcode-questions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/dishambha/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
@@ -64,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/dishambha/leetcode-questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/dishambha/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/dishambha/leetcode-questions/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/dishambha/leetcode-questions/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
