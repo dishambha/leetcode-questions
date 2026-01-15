@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/dishambha/leetcode-questions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/dishambha/leetcode-questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/dishambha/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/dishambha/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dishambha/leetcode-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dishambha/leetcode-questions/tree/master/0189-rotate-array) |
 | [0454-4sum-ii](https://github.com/dishambha/leetcode-questions/tree/master/0454-4sum-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dishambha/leetcode-questions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dishambha/leetcode-questions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/dishambha/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dishambha/leetcode-questions/tree/master/0169-majority-element) |
 | [0454-4sum-ii](https://github.com/dishambha/leetcode-questions/tree/master/0454-4sum-ii) |
 ## Divide and Conquer
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/dishambha/leetcode-questions/tree/master/0566-reshape-the-matrix) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dishambha/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
