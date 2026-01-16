@@ -16,4 +16,19 @@ class Solution:
                     hi = mid-1
         return nums[lo]
 
+'''
+nums = [1,1,2,3,3,4,4,8,8]
+idx  =  0,1,2,3,4,5,6,7,8
+
+pairs before the single eement{
+    (0,1)
+}
+pairs after the single elements{
+    (3,4),
+    (5,6),
+    (7,8)
+}
+
+'''
+
             
