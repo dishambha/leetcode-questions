@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/dishambha/leetcode-questions/tree/master/0454-4sum-ii) |
 | [0566-reshape-the-matrix](https://github.com/dishambha/leetcode-questions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/dishambha/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/dishambha/leetcode-questions/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/dishambha/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/dishambha/leetcode-questions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
