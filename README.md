@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dishambha/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dishambha/leetcode-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/dishambha/leetcode-questions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/dishambha/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0454-4sum-ii](https://github.com/dishambha/leetcode-questions/tree/master/0454-4sum-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dishambha/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/dishambha/leetcode-questions/tree/master/0566-reshape-the-matrix) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/dishambha/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/dishambha/leetcode-questions/tree/master/0704-binary-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/dishambha/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
