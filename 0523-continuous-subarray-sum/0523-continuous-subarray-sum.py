@@ -7,7 +7,7 @@ class Solution:
             pref_sum += nums[i]
             rem = pref_sum%k
             if rem in rem_index:
-                if i-rem_index[rem] >= 2:
+                if i-rem_index.get(rem,0) >= 2:
                     return True
             else:
                 rem_index[rem] = rem_index.get(rem,0)+i
