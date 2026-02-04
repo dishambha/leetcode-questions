@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dishambha/leetcode-questions/tree/master/0238-product-of-array-except-self) |
 | [0454-4sum-ii](https://github.com/dishambha/leetcode-questions/tree/master/0454-4sum-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dishambha/leetcode-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/dishambha/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/dishambha/leetcode-questions/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/dishambha/leetcode-questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/dishambha/leetcode-questions/tree/master/0704-binary-search) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dishambha/leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dishambha/leetcode-questions/tree/master/0169-majority-element) |
 | [0454-4sum-ii](https://github.com/dishambha/leetcode-questions/tree/master/0454-4sum-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/dishambha/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dishambha/leetcode-questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dishambha/leetcode-questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/dishambha/leetcode-questions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/dishambha/leetcode-questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dishambha/leetcode-questions/tree/master/0724-find-pivot-index) |
 ## Union-Find
 |  |
