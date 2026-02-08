@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dishambha/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishambha/leetcode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/dishambha/leetcode-questions/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/dishambha/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dishambha/leetcode-questions/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/dishambha/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
