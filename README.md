@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dishambha/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/dishambha/leetcode-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dishambha/leetcode-questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/dishambha/leetcode-questions/tree/master/0048-rotate-image) |
@@ -134,8 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/dishambha/leetcode-questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dishambha/leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dishambha/leetcode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/dishambha/leetcode-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dishambha/leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/dishambha/leetcode-questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
